@@ -1,9 +1,3 @@
-# Getting Started with Commande cli
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Code of 'basic.py'
-```python
 import argparse
 
 def main():
@@ -24,15 +18,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-```
-
-
-## Run 
-```bash
-python cli_example.py John --age 30 --greet
-```
-## Result
-```bash
-Hello, John! You are 30 years old.
-```
